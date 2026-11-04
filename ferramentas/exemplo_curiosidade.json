@@ -1,0 +1,224 @@
+{
+ "titulo_topo": "VOCÊ SABIA?",
+ "cenas": [
+  {
+   "texto": "O seu coração está trabalhando agora mesmo... e você nem imagina o tamanho desse esforço.",
+   "fundo": "vermelho",
+   "emojis": [
+    {
+     "e": "❤️",
+     "x": 0.5,
+     "y": 0.42,
+     "tam": 460,
+     "anim": "pulsar",
+     "atraso": 0.2
+    }
+   ],
+   "grande": {
+    "texto": "SEU CORAÇÃO",
+    "tam": 104,
+    "cor": "branco",
+    "y": 300
+   },
+   "audio": "audio_cor/s0.pcm"
+  },
+  {
+   "texto": "Ele bate mais de cem mil vezes por dia, sem tirar um minuto de folga.",
+   "fundo": "vermelho",
+   "emojis": [
+    {
+     "e": "❤️",
+     "x": 0.5,
+     "y": 0.4,
+     "tam": 300,
+     "anim": "pulsar",
+     "atraso": 0.1
+    },
+    {
+     "e": "⏱️",
+     "x": 0.78,
+     "y": 0.27,
+     "tam": 150,
+     "anim": "balançar",
+     "palavra": "minuto"
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 100000,
+    "rotulo": "batidas/dia",
+    "palavra": "cem",
+    "duracao": 2.0
+   },
+   "audio": "audio_cor/s1.pcm"
+  },
+  {
+   "texto": "Em um ano, são mais de trinta e seis milhões de batidas.",
+   "fundo": "laranja",
+   "emojis": [
+    {
+     "e": "📈",
+     "x": 0.5,
+     "y": 0.38,
+     "tam": 340,
+     "anim": "flutuar",
+     "atraso": 0.2
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 36,
+    "rotulo": "milhões por ano",
+    "palavra": "trinta",
+    "duracao": 1.6
+   },
+   "audio": "audio_cor/s2.pcm"
+  },
+  {
+   "texto": "E ele bombeia mais de sete mil litros de sangue por dia. Daria para encher dezenas de banheiras.",
+   "fundo": "azul",
+   "emojis": [
+    {
+     "e": "🩸",
+     "x": 0.5,
+     "y": 0.2,
+     "tam": 200,
+     "anim": "flutuar",
+     "atraso": 0.2
+    },
+    {
+     "e": "🛁",
+     "x": 0.5,
+     "y": 0.34,
+     "tam": 115,
+     "multiplicar": 18,
+     "colunas": 6,
+     "palavra": "banheiras"
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 7500,
+    "rotulo": "litros",
+    "palavra": "sete",
+    "duracao": 1.8
+   },
+   "audio": "audio_cor/s3.pcm"
+  },
+  {
+   "texto": "Se você juntasse todos os vasos sanguíneos do corpo, seriam quase cem mil quilômetros. Dá para dar mais de duas voltas na Terra.",
+   "camera": {
+    "lon": -20,
+    "lat": 0,
+    "largura": 330
+   },
+   "viagem": 0.01,
+   "linhas": [
+    {
+     "pontos": [
+      [
+       -180,
+       0
+      ],
+      [
+       -120,
+       0
+      ],
+      [
+       -60,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       60,
+       0
+      ],
+      [
+       120,
+       0
+      ],
+      [
+       180,
+       0
+      ]
+     ],
+     "voltas": 2.4,
+     "cor": "vermelho",
+     "duracao": 2.6,
+     "palavra": "duas"
+    }
+   ],
+   "emojis": [
+    {
+     "e": "🌍",
+     "x": 0.82,
+     "y": 0.2,
+     "tam": 150,
+     "anim": "girar",
+     "atraso": 0.3
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 96000,
+    "rotulo": "km",
+    "palavra": "quase",
+    "duracao": 2.2
+   },
+   "audio": "audio_cor/s4.pcm"
+  },
+  {
+   "texto": "E todo esse trabalho vem de um órgão do tamanho de duas mãos fechadas juntas.",
+   "fundo": "rosa",
+   "emojis": [
+    {
+     "e": "🤜",
+     "x": 0.4,
+     "y": 0.4,
+     "tam": 230,
+     "palavra": "mãos"
+    },
+    {
+     "e": "🤛",
+     "x": 0.6,
+     "y": 0.4,
+     "tam": 230,
+     "palavra": "mãos"
+    },
+    {
+     "e": "❤️",
+     "x": 0.5,
+     "y": 0.22,
+     "tam": 160,
+     "anim": "pulsar",
+     "atraso": 0.2
+    }
+   ],
+   "audio": "audio_cor/s5.pcm"
+  },
+  {
+   "texto": "Qual dessas você não sabia? Comenta aqui e segue para mais curiosidades.",
+   "fundo": "roxo",
+   "emojis": [
+    {
+     "e": "💬",
+     "x": 0.5,
+     "y": 0.42,
+     "tam": 300,
+     "anim": "balançar",
+     "atraso": 0.2
+    }
+   ],
+   "grande": {
+    "texto": "SEGUE PRA\nMAIS!",
+    "tam": 100,
+    "cor": "amarelo",
+    "y": 280
+   },
+   "audio": "audio_cor/s6.pcm"
+  }
+ ]
+}

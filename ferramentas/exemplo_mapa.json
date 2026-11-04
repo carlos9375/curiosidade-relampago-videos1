@@ -1,0 +1,299 @@
+{
+ "titulo_topo": "VOCÊ SABIA?",
+ "cenas": [
+  {
+   "texto": "O Brasil faz fronteira com dez países... e um deles fica na Europa.",
+   "camera": {
+    "lon": -58,
+    "lat": -18,
+    "largura": 70
+   },
+   "destaques": [
+    {
+     "id": "BRA",
+     "cor": "amarelo",
+     "rotulo": "BRASIL",
+     "tam": 56,
+     "atraso": 0.3
+    }
+   ],
+   "grande": {
+    "texto": "10 VIZINHOS",
+    "tam": 110,
+    "cor": "amarelo"
+   },
+   "min": 4.5,
+   "audio": "audio/s0.pcm"
+  },
+  {
+   "texto": "Com mais de oito milhões e meio de quilômetros quadrados, o Brasil ocupa quase metade da América do Sul.",
+   "camera": {
+    "lon": -60,
+    "lat": -20,
+    "largura": 62
+   },
+   "contador": {
+    "de": 0,
+    "ate": 47,
+    "rotulo": "% da América do Sul",
+    "atraso": 0.6,
+    "duracao": 2.5
+   },
+   "audio": "audio/s1.pcm"
+  },
+  {
+   "texto": "E encosta em quase todos os vizinhos: Uruguai, Argentina, Paraguai, Bolívia, Peru, Colômbia, Venezuela, Guiana e Suriname.",
+   "camera": {
+    "lon": -60,
+    "lat": -18,
+    "largura": 64
+   },
+   "destaques": [
+    {
+     "id": "URY",
+     "cor": "azul",
+     "tam": 32
+    },
+    {
+     "id": "ARG",
+     "cor": "azul",
+     "rotulo": "Argentina",
+     "tam": 36
+    },
+    {
+     "id": "PRY",
+     "cor": "azul",
+     "tam": 32
+    },
+    {
+     "id": "BOL",
+     "cor": "azul",
+     "rotulo": "Bolívia",
+     "tam": 36
+    },
+    {
+     "id": "PER",
+     "cor": "azul",
+     "rotulo": "Peru",
+     "tam": 36
+    },
+    {
+     "id": "COL",
+     "cor": "azul",
+     "rotulo": "Colômbia",
+     "tam": 36
+    },
+    {
+     "id": "VEN",
+     "cor": "azul",
+     "rotulo": "Venezuela",
+     "tam": 34
+    },
+    {
+     "id": "GUY",
+     "cor": "azul",
+     "tam": 30
+    },
+    {
+     "id": "SUR",
+     "cor": "azul",
+     "tam": 30
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 9,
+    "rotulo": "países",
+    "seguir_destaques": true
+   },
+   "audio": "audio/s2.pcm"
+  },
+  {
+   "texto": "Na América do Sul, só dois países não tocam o Brasil: Chile e Equador.",
+   "camera": {
+    "lon": -62,
+    "lat": -20,
+    "largura": 66
+   },
+   "destaques": [
+    {
+     "id": "CHL",
+     "cor": "vermelho",
+     "rotulo": "Chile",
+     "tam": 36,
+     "pos": [
+      -71,
+      -33
+     ]
+    },
+    {
+     "id": "ECU",
+     "cor": "vermelho",
+     "rotulo": "Equador",
+     "tam": 36,
+     "pos": [
+      -78.5,
+      0.8
+     ]
+    }
+   ],
+   "xis": [
+    {
+     "id": "CHL",
+     "pos": [
+      -70.5,
+      -24
+     ]
+    },
+    {
+     "id": "ECU",
+     "pos": [
+      -78.3,
+      -1.3
+     ]
+    }
+   ],
+   "audio": "audio/s3.pcm"
+  },
+  {
+   "texto": "Mas aqui no norte tem um vizinho diferente: a Guiana Francesa, que é território da França.",
+   "limpar": true,
+   "camera": {
+    "lon": -53.5,
+    "lat": 2.5,
+    "largura": 14
+   },
+   "destaques": [
+    {
+     "id": "BRA",
+     "cor": "amarelo",
+     "rotulo": "BRASIL",
+     "pos": [
+      -52,
+      -0.5
+     ],
+     "tam": 48,
+     "atraso": 0.2
+    },
+    {
+     "id": "FRA",
+     "bbox": [
+      -56,
+      1,
+      -50,
+      7
+     ],
+     "cor": "azul",
+     "rotulo": "FRANÇA",
+     "tam": 48,
+     "palavra": "Guiana"
+    }
+   ],
+   "rotulos": [
+    {
+     "texto": "Amapá",
+     "lon": -51.8,
+     "lat": 1.2,
+     "tam": 36,
+     "atraso": 0.6
+    }
+   ],
+   "viagem": 2.2,
+   "min": 6.5,
+   "audio": "audio/s4.pcm"
+  },
+  {
+   "texto": "São cerca de setecentos e trinta quilômetros de fronteira. É a maior fronteira terrestre da França, maior que a com a Espanha.",
+   "camera": {
+    "lon": -53.5,
+    "lat": 2.8,
+    "largura": 11
+   },
+   "fronteiras": [
+    {
+     "a": "BRA",
+     "b": {
+      "id": "FRA",
+      "bbox": [
+       -56,
+       1,
+       -50,
+       7
+      ]
+     },
+     "atraso": 0.5
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 730,
+    "rotulo": "km",
+    "atraso": 0.6,
+    "duracao": 2.2
+   },
+   "audio": "audio/s5.pcm"
+  },
+  {
+   "texto": "Já a maior fronteira do Brasil é com a Bolívia: mais de três mil e quatrocentos quilômetros.",
+   "limpar": true,
+   "camera": {
+    "lon": -62,
+    "lat": -14,
+    "largura": 34
+   },
+   "viagem": 2.0,
+   "destaques": [
+    {
+     "id": "BRA",
+     "cor": "amarelo",
+     "atraso": 0.1
+    },
+    {
+     "id": "BOL",
+     "cor": "verde",
+     "rotulo": "Bolívia",
+     "tam": 46,
+     "atraso": 1.0
+    }
+   ],
+   "fronteiras": [
+    {
+     "a": "BOL",
+     "b": "BRA",
+     "atraso": 1.4
+    }
+   ],
+   "contador": {
+    "de": 0,
+    "ate": 3423,
+    "rotulo": "km",
+    "atraso": 1.4,
+    "duracao": 2.2
+   },
+   "audio": "audio/s6.pcm"
+  },
+  {
+   "texto": "Você sabia que o Brasil faz fronteira com a França? Comenta aqui e segue para mais.",
+   "camera": {
+    "lon": -58,
+    "lat": -18,
+    "largura": 70
+   },
+   "viagem": 1.6,
+   "grande": {
+    "texto": "SEGUE PRA\nMAIS!",
+    "tam": 100,
+    "cor": "amarelo"
+   },
+   "limpar": true,
+   "destaques": [
+    {
+     "id": "BRA",
+     "cor": "amarelo",
+     "atraso": 0.1
+    }
+   ],
+   "audio": "audio/s7.pcm"
+  }
+ ]
+}
