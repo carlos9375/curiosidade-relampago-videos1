@@ -1,0 +1,82 @@
+{
+ "caso": "CASO #001",
+ "cenas": [
+  {
+   "visual": "titulo",
+   "texto": "Ele zombou da polícia por cartas, enviou códigos secretos aos jornais... e nunca foi pego.",
+   "min": 4.5,
+   "dados": {
+    "linha1": "O assassino",
+    "linha2": "do Zodíaco"
+   },
+   "audio": "audio_z/s0.pcm"
+  },
+  {
+   "visual": "mapa",
+   "texto": "Califórnia, fim dos anos sessenta. Entre dezembro de 1968 e outubro de 1969, um assassino ataca casais e um taxista na região de São Francisco.",
+   "dados": {
+    "local": "São Francisco · EUA",
+    "data": "Dez/1968 — Out/1969"
+   },
+   "audio": "audio_z/s1.pcm"
+  },
+  {
+   "visual": "carta",
+   "texto": "Depois dos crimes, ele começa a mandar cartas aos jornais. Assina com um símbolo: um círculo cortado por uma cruz.",
+   "dados": {
+    "cabecalho": "San Francisco Chronicle"
+   },
+   "audio": "audio_z/s2.pcm"
+  },
+  {
+   "visual": "documento",
+   "texto": "Nas cartas, vinham códigos secretos. O primeiro foi decifrado em poucos dias por um professor e sua esposa.",
+   "min": 6.5,
+   "dados": {
+    "carimbo": "Decifrado 1969"
+   },
+   "audio": "audio_z/s3.pcm"
+  },
+  {
+   "visual": "documento",
+   "texto": "Mas outro código, com 340 símbolos, resistiu por 51 anos. Só em dezembro de 2020, três decifradores amadores conseguiram quebrar a mensagem.",
+   "min": 8,
+   "dados": {
+    "carimbo": "Decifrado 2020",
+    "contador": 51,
+    "faixa": "51 anos depois"
+   },
+   "audio": "audio_z/s4.pcm"
+  },
+  {
+   "visual": "citacao",
+   "texto": "E a primeira frase dizia: Espero que você esteja se divertindo tentando me pegar.",
+   "min": 5.5,
+   "dados": {
+    "texto": "Espero que você esteja se divertindo tentando me pegar.",
+    "fonte": "trecho da cifra de 340 símbolos"
+   },
+   "audio": "audio_z/s5.pcm"
+  },
+  {
+   "visual": "numeros",
+   "texto": "Em cartas, ele chegou a dizer que eram trinta e sete vítimas. A polícia confirma cinco mortes. E até hoje ninguém sabe quem ele era.",
+   "dados": {
+    "rotulo1": "Alegou",
+    "valor1": 37,
+    "rotulo2": "Confirmadas",
+    "valor2": 5,
+    "carimbo": "Identidade desconhecida"
+   },
+   "audio": "audio_z/s6.pcm"
+  },
+  {
+   "visual": "final",
+   "texto": "Você acha que esse caso um dia vai ser resolvido? Comenta aqui e segue para o próximo dossiê.",
+   "dados": {
+    "status": "Caso ainda aberto"
+   },
+   "audio": "audio_z/s7.pcm"
+  }
+ ]
+}
