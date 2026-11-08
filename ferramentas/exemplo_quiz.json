@@ -1,0 +1,147 @@
+{
+ "titulo": "MONTE A SELEÇÃO\nDE TODOS OS TEMPOS",
+ "subtitulo": "ESCOLHA A, B OU C!",
+ "canal": "QUIZ DO CRAQUE",
+ "final": "COMENTA SUAS 8 ESCOLHAS!",
+ "rodadas": [
+  {
+   "pergunta": "ESCOLHA O GOLEIRO",
+   "opcoes": [
+    {
+     "nome": "TAFFAREL",
+     "numero": 1,
+     "tipo": "goleiro"
+    },
+    {
+     "nome": "MARCOS",
+     "numero": 1,
+     "tipo": "goleiro"
+    },
+    {
+     "nome": "ALISSON",
+     "numero": 1,
+     "tipo": "goleiro"
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O LATERAL DIREITO",
+   "opcoes": [
+    {
+     "nome": "CAFU",
+     "numero": 2
+    },
+    {
+     "nome": "CARLOS ALBERTO",
+     "numero": 4
+    },
+    {
+     "nome": "DANIEL ALVES",
+     "numero": 2
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O ZAGUEIRO",
+   "opcoes": [
+    {
+     "nome": "LÚCIO",
+     "numero": 3
+    },
+    {
+     "nome": "THIAGO SILVA",
+     "numero": 3
+    },
+    {
+     "nome": "ALDAIR",
+     "numero": 13
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O LATERAL ESQUERDO",
+   "opcoes": [
+    {
+     "nome": "ROBERTO CARLOS",
+     "numero": 6
+    },
+    {
+     "nome": "NILTON SANTOS",
+     "numero": 6
+    },
+    {
+     "nome": "MARCELO",
+     "numero": 6
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O VOLANTE",
+   "opcoes": [
+    {
+     "nome": "DUNGA",
+     "numero": 8
+    },
+    {
+     "nome": "FALCÃO",
+     "numero": 15
+    },
+    {
+     "nome": "MAURO SILVA",
+     "numero": 5
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O MEIA",
+   "opcoes": [
+    {
+     "nome": "ZICO",
+     "numero": 10
+    },
+    {
+     "nome": "KAKÁ",
+     "numero": 8
+    },
+    {
+     "nome": "RONALDINHO",
+     "numero": 10
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O ATACANTE",
+   "opcoes": [
+    {
+     "nome": "PELÉ",
+     "numero": 10
+    },
+    {
+     "nome": "RONALDO",
+     "numero": 9
+    },
+    {
+     "nome": "ROMÁRIO",
+     "numero": 11
+    }
+   ]
+  },
+  {
+   "pergunta": "ESCOLHA O TÉCNICO",
+   "opcoes": [
+    {
+     "nome": "ZAGALLO",
+     "tipo": "tecnico"
+    },
+    {
+     "nome": "FELIPÃO",
+     "tipo": "tecnico"
+    },
+    {
+     "nome": "TELÊ SANTANA",
+     "tipo": "tecnico"
+    }
+   ]
+  }
+ ]
+}
